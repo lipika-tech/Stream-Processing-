@@ -1,5 +1,7 @@
 # Stream-Processing-
 
+https://puzzledpalegreenemulators.lipikasharma.repl.co/
+
 Design and Development of Electronic Stock Exchange
 Stock trading broadly refers to any buying and selling of stock, but is colloquially used to refer to
 more short-term investments made by very active investors. Most stocks are traded on physical or
